@@ -58,7 +58,7 @@
 
 A front-end web development project. 
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#readme-top">Back to Top</a></p>
 
 
 ### Built With
@@ -68,7 +68,7 @@ A front-end web development project.
 * ![CSS][CSS]
 * [![JavaScript][JavaScript]]
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#readme-top">Back to Top</a></p>
 
 
 ### Top contributors:
@@ -83,7 +83,7 @@ A front-end web development project.
 
 Distributed under the project_license. See `LICENSE.txt` for more information.
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#readme-top">Back to Top</a></p>
 
 
 
@@ -94,7 +94,7 @@ Jimmy Ding - jimmydingjk@gmail.com
 
 Project Link: [https://github.com/HappyPotatoHead/The-Food-Paradise](https://github.com/HappyPotatoHead/The-Food-Paradise)
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#readme-top">Back to Top</a></p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
