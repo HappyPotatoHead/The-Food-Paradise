@@ -66,7 +66,7 @@ A front-end web development project.
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * ![HTML][HTML]
 * ![CSS][CSS]
-* [![JavaScript][JavaScript]]
+* ![JavaScript][JavaScript]
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
